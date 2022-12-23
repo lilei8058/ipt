@@ -1,0 +1,234 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="720央视IPTV",CCTV-1
+http://192.168.1.1:8800/udp/239.125.2.66:4120
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="720央视IPTV",CCTV-2
+http://192.168.1.1:8800/udp/234.1.3.12:5000
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="720央视IPTV",CCTV-3
+http://192.168.1.1:8800/udp/234.1.2.204:5001
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="720央视IPTV",CCTV-4
+http://192.168.1.1:8800/udp/234.1.3.13:5000
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="720央视IPTV",CCTV-5
+http://192.168.1.1:8800/udp/234.1.2.205:5001
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="720央视IPTV",CCTV-5+
+http://192.168.1.1:8800/udp/234.1.3.172:5000
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="720央视IPTV",CCTV-6
+http://192.168.1.1:8800/udp/234.1.2.206:5001
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="720央视IPTV",CCTV-7
+http://192.168.1.1:8800/udp/234.1.3.14:5000
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="720央视IPTV",CCTV-8
+http://192.168.1.1:8800/udp/234.1.2.207:5001
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="720央视IPTV",CCTV-9
+http://192.168.1.1:8800/udp/234.1.3.15:5000
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="720央视IPTV",CCTV-10
+http://192.168.1.1:8800/udp/234.1.3.16:5000
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="720央视IPTV",CCTV-11
+http://192.168.1.1:8800/udp/234.1.3.17:5000
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="720央视IPTV",CCTV-12
+http://192.168.1.1:8800/udp/234.1.3.18:5000
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="720央视IPTV",CCTV-13
+http://192.168.1.1:8800/udp/234.1.3.19:5000
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="720央视IPTV",CCTV-14
+http://192.168.1.1:8800/udp/234.1.3.20:5000
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="720央视IPTV",CCTV-15
+http://192.168.1.1:8800/udp/234.1.3.21:5000
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="720央视IPTV",CCTV-17
+http://192.168.1.1:8800/udp/234.1.3.235:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",CETV4
+http://192.168.1.1:8800/udp/239.125.1.110:4120
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="720-IPTV",CCTV-NEWS
+http://192.168.1.1:8800/udp/234.1.3.22:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",内蒙古蒙语720卫视IPTV
+http://192.168.1.1:8800/udp/234.1.3.57:5000
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="720卫视IPTV",内蒙古720卫视IPTV
+http://192.168.1.1:8800/udp/234.1.3.37:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV",内蒙古蒙古语文化
+http://192.168.1.1:8800/udp/234.1.3.117:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV",内蒙古新闻综合
+http://192.168.1.1:8800/udp/234.1.3.118:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV类",内蒙古经济生活
+http://192.168.1.1:8800/udp/234.1.3.119:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV",内蒙古文体娱乐
+http://192.168.1.1:8800/udp/234.1.3.120:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV",内蒙古农牧
+http://192.168.1.1:8800/udp/234.1.3.121:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV",内蒙古少儿
+http://192.168.1.1:8800/udp/234.1.3.122:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV",呼和浩特新闻综合
+http://192.168.1.1:8800/udp/234.1.3.113:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV",呼和浩特都市生活
+http://192.168.1.1:8800/udp/234.1.3.114:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720本地IPTV",呼和浩特影视娱乐
+http://192.168.1.1:8800/udp/234.1.3.115:5000
+#EXTINF:-1 tvg-id="27" tvg-name="湖南720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="720卫视IPTV",湖南卫视
+http://192.168.1.1:8800/udp/234.1.3.44:5000
+#EXTINF:-1 tvg-id="28" tvg-name="浙江720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="720卫视IPTV",浙江卫视
+http://192.168.1.1:8800/udp/234.1.3.48:5000
+#EXTINF:-1 tvg-id="29" tvg-name="江苏720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="720卫视IPTV",江苏卫视
+http://192.168.1.1:8800/udp/234.1.3.46:5000
+#EXTINF:-1 tvg-id="32" tvg-name="安徽720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="720卫视IPTV",安徽卫视
+http://192.168.1.1:8800/udp/234.1.3.45:5000
+#EXTINF:-1 tvg-id="30" tvg-name="720-IPTV720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="720卫视IPTV",北京卫视
+http://192.168.1.1:8800/udp/234.1.3.43:5000
+#EXTINF:-1 tvg-id="39" tvg-name="天津720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="720卫视IPTV",天津卫视
+http://192.168.1.1:8800/udp/234.1.3.32:5000
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="720卫视IPTV",辽宁卫视
+http://192.168.1.1:8800/udp/234.1.3.25:5000
+#EXTINF:-1 tvg-id="38" tvg-name="山东720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="720卫视IPTV",山东卫视
+http://192.168.1.1:8800/udp/234.1.3.33:5000
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="720卫视IPTV",黑龙江卫视
+http://192.168.1.1:8800/udp/234.1.3.41:5000
+#EXTINF:-1 tvg-id="56" tvg-name="四川720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="720卫视IPTV",四川卫视
+http://192.168.1.1:8800/udp/234.1.3.49:5000
+#EXTINF:-1 tvg-id="50" tvg-name="江西720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="720卫视IPTV",江西卫视IPTV
+http://192.168.1.1:8800/udp/234.1.3.47:5000
+#EXTINF:-1 tvg-id="44" tvg-name="贵州720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="720卫视IPTV",贵州卫视
+http://192.168.1.1:8800/udp/234.1.3.26:5000
+#EXTINF:-1 tvg-id="34" tvg-name="深圳720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="720卫视IPTV",深圳卫视
+http://192.168.1.1:8800/udp/234.1.3.54:5000
+#EXTINF:-1 tvg-id="48" tvg-name="湖北720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="720卫视IPTV",湖北卫视
+http://192.168.1.1:8800/udp/234.1.3.30:5000
+#EXTINF:-1 tvg-id="31" tvg-name="东方720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="720卫视IPTV",东方卫视
+http://192.168.1.1:8800/udp/234.1.3.40:5000
+#EXTINF:-1 tvg-id="40" tvg-name="重庆720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="720卫视IPTV",重庆卫视
+http://192.168.1.1:8800/udp/234.1.3.51:5000
+#EXTINF:-1 tvg-id="41" tvg-name="东南720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="720卫视IPTV",东南卫视
+http://192.168.1.1:8800/udp/234.1.3.24:5000
+#EXTINF:-1 tvg-id="45" tvg-name="河北720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="720卫视IPTV",河北卫视
+http://192.168.1.1:8800/udp/234.1.3.50:5000
+#EXTINF:-1 tvg-id="33" tvg-name="广东720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="720卫视IPTV",广东卫视
+http://192.168.1.1:8800/udp/234.1.3.29:5000
+#EXTINF:-1 tvg-id="37" tvg-name="旅游720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="720卫视IPTV",海南卫视
+http://192.168.1.1:8800/udp/234.1.3.53:5000
+#EXTINF:-1 tvg-id="51" tvg-name="吉林720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="720卫视IPTV",吉林卫视
+http://192.168.1.1:8800/udp/234.1.3.42:5000
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="720卫视IPTV",甘肃卫视
+http://192.168.1.1:8800/udp/234.1.3.39:5000
+#EXTINF:-1 tvg-id="58" tvg-name="云南720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="720卫视IPTV",云南卫视
+http://192.168.1.1:8800/udp/234.1.3.23:5000
+#EXTINF:-1 tvg-id="47" tvg-name="河南720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="720卫视IPTV",河南卫视
+http://192.168.1.1:8800/udp/234.1.3.28:5000
+#EXTINF:-1 tvg-id="43" tvg-name="广西720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="720卫视IPTV",广西卫视
+http://192.168.1.1:8800/udp/234.1.3.52:5000
+#EXTINF:-1 tvg-id="55" tvg-name="陕西720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="720卫视IPTV",陕西卫视
+http://192.168.1.1:8800/udp/234.1.3.31:5000
+#EXTINF:-1 tvg-id="54" tvg-name="山西720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="720卫视IPTV",山西卫视
+http://192.168.1.1:8800/udp/234.1.3.36:5000
+#EXTINF:-1 tvg-id="59" tvg-name="青海720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="720卫视IPTV",青海卫视
+http://192.168.1.1:8800/udp/234.1.3.38:5000
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="720卫视IPTV",宁夏卫视
+http://192.168.1.1:8800/udp/234.1.3.27:5000
+#EXTINF:-1 tvg-id="71" tvg-name="西藏720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="720卫视IPTV",西藏卫视
+http://192.168.1.1:8800/udp/234.1.3.35:5000
+#EXTINF:-1 tvg-id="57" tvg-name="新疆720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="720卫视IPTV",新疆卫视
+http://192.168.1.1:8800/udp/234.1.3.34:5000
+#EXTINF:-1 tvg-id="61" tvg-name="兵团720卫视IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="720卫视IPTV",兵团卫视
+http://192.168.1.1:8800/udp/234.1.3.60:5000
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="720-IPTV",IPTV5+
+http://192.168.1.1:8800/udp/234.1.3.203:5000
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="720-IPTV",卡酷动画
+http://192.168.1.1:8800/udp/234.1.3.55:5000
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="720卫视IPTV",金鹰卡通
+http://192.168.1.1:8800/udp/234.1.3.56:5000
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="720-IPTV",中国教育-1
+http://192.168.1.1:8800/udp/234.1.3.61:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",山东教育
+http://192.168.1.1:8800/udp/234.1.3.69:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",熊猫频道
+http://192.168.1.1:8800/udp/234.1.3.201:5000
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="720-IPTV",游戏风云
+http://192.168.1.1:8800/udp/234.1.3.211:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",东方财经
+http://192.168.1.1:8800/udp/234.1.3.214:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",金色频道
+http://192.168.1.1:8800/udp/234.1.3.217:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",急速汽车
+http://192.168.1.1:8800/udp/234.1.3.212:5000
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="720-IPTV",七彩戏剧
+http://192.168.1.1:8800/udp/234.1.3.210:5000
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="720-IPTV",全纪实
+http://192.168.1.1:8800/udp/234.1.3.216:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",收视指南
+http://192.168.1.1:8800/udp/234.1.3.204:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",经典电影
+http://192.168.1.1:8800/udp/234.1.3.206:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",魅力时尚
+http://192.168.1.1:8800/udp/234.1.3.205:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",少儿动画
+http://192.168.1.1:8800/udp/234.1.3.145:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",IPTV相声小品
+http://192.168.1.1:8800/udp/234.1.3.208:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",IPTV野外
+http://192.168.1.1:8800/udp/234.1.3.126:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",IPTV法治
+http://192.168.1.1:8800/udp/234.1.3.125:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",音乐现场
+http://192.168.1.1:8800/udp/234.1.3.218:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",地理
+http://192.168.1.1:8800/udp/234.1.3.219:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",早教
+http://192.168.1.1:8800/udp/234.1.3.222:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",动画
+http://192.168.1.1:8800/udp/234.1.3.223:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",好学生
+http://192.168.1.1:8800/udp/234.1.3.224:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",光影
+http://192.168.1.1:8800/udp/234.1.3.217:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",爱生活
+http://192.168.1.1:8800/udp/234.1.3.228:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",喜剧影院
+http://192.168.1.1:8800/udp/234.1.3.230:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",动作影院
+http://192.168.1.1:8800/udp/234.1.3.231:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",家庭影院
+http://192.168.1.1:8800/udp/234.1.3.232:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",星影
+http://192.168.1.1:8800/udp/234.1.3.233:5000
+#EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="720-IPTV",IPTV3+
+http://192.168.1.1:8800/udp/234.1.3.127:5000
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="720-IPTV",IPTV5+
+http://192.168.1.1:8800/udp/234.1.3.128:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",IPTV6+
+http://192.168.1.1:8800/udp/234.1.3.129:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",IPTV8+
+http://192.168.1.1:8800/udp/234.1.3.130:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",精选
+http://192.168.1.1:8800/udp/239.255.255.250:1900
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",古装剧场
+http://192.168.1.1:8800/udp/234.1.3.135:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",城市剧场
+http://192.168.1.1:8800/udp/234.1.3.136:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",武侠剧场
+http://192.168.1.1:8800/udp/234.1.3.138:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",IPTV谍战剧场
+http://192.168.1.1:8800/udp/234.1.3.139:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",都市剧场
+http://192.168.1.1:8800/udp/234.1.3.140:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",热播剧场
+http://192.168.1.1:8800/udp/234.1.3.143:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",军旅剧场
+http://192.168.1.1:8800/udp/234.1.3.144:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",鉴赏
+http://192.168.1.1:8800/udp/234.1.3.225:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",CETV2
+http://192.168.1.1:8800/udp/234.1.3.207:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",美人
+http://192.168.1.1:8800/udp/234.1.3.220:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",墨宝
+http://192.168.1.1:8800/udp/234.1.3.226:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",央广购物
+http://192.168.1.1:8800/udp/239.125.2.14:4120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",聚鲨环球精选
+http://192.168.1.1:8800/udp/234.1.3.184:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",家有购物
+http://192.168.1.1:8800/udp/234.1.3.185:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",家家购物
+http://192.168.1.1:8800/udp/234.1.3.187:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",优购物
+http://192.168.1.1:8800/udp/234.1.3.188:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",好享购物
+http://192.168.1.1:8800/udp/234.1.3.189:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="720-IPTV",三佳购物
+http://192.168.1.1:8800/udp/234.1.2.208:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K
+http://192.168.1.1:8800/udp/234.1.3.202:5000
+
